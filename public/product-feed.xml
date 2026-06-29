@@ -4,6 +4,18 @@
     <title>Liya’s shop</title>
     <link>https://example.com</link>
     <description>Product feed for Liya’s shop</description>
-    <lastBuildDate>Mon, 29 Jun 2026 16:09:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 16:14:39 GMT</lastBuildDate>
+    <item>
+      <g:id>a997508d-3fc1-4d8a-8d36-1529bd364899</g:id>
+      <g:title>צמיד מקרמה(לא במלאי)</g:title>
+      <g:description>כל פריט נוצר באהבה גדולה❤️</g:description>
+      <g:link>https://example.com/product/tsmyd-mkrmhla-bmlay-ezs310</g:link>
+      <g:image_link>https://example.com/assets/product-1782749411835-trxyg.webp</g:image_link>
+      <g:availability>out_of_stock</g:availability>
+      <g:price>20.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Liya’s shop</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>

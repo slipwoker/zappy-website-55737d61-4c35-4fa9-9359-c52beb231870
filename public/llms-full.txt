@@ -3616,3 +3616,12 @@ Description: תודה רבה על פנייתך! הודעתך התקבלה במע
 
 ---
 
+## Product Catalog
+
+### צמיד מקרמה(לא במלאי)
+URL: https://example.com/product/tsmyd-mkrmhla-bmlay-ezs310
+Price: 20.00 ILS
+Availability: Out of stock
+
+---
+
