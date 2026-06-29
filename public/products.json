@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-29T16:19:10.365Z",
+  "generated_at": "2026-06-29T16:22:47.206Z",
   "base_url": "https://example.com",
   "currency": "ILS",
   "count": 1,
   "products": [
     {
       "id": "a997508d-3fc1-4d8a-8d36-1529bd364899",
-      "slug": "tsmyd-mkrmhla-bmlay-ezs310",
+      "slug": "tsmyd-mkrmhla-bmlay-tjgjy4",
       "name": "צמיד מקרמה(לא במלאי)",
       "name_translations": {},
       "description": "",
@@ -23,9 +23,9 @@
       ],
       "in_stock": false,
       "stock_status": "out_of_stock",
-      "url": "https://example.com/product/tsmyd-mkrmhla-bmlay-ezs310",
+      "url": "https://example.com/product/tsmyd-mkrmhla-bmlay-tjgjy4",
       "categories": [],
-      "updated_at": "2026-06-29T16:12:30.849Z"
+      "updated_at": "2026-06-29T16:21:24.837Z"
     }
   ]
 }
