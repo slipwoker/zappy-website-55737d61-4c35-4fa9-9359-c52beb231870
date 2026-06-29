@@ -7,49 +7,49 @@
 ## Pages
 
 ### בית
-https://liya-s-shop-55737d61.zappy5.app
+https://example.com
 חנות אונליין צבעונית ומתוקה לצמידים, תכשיטי אופנה, סליים ואקססוריז ייחודיים לילדות שאוהבות ליצור ולנצנץ. כנסי עכשיו לעולם של סטייל DIY כיפי!
 
 ### אודות
-https://liya-s-shop-55737d61.zappy5.app/about
+https://example.com/about
 הכירי את לי׳ה והוויב היצירתי שמאחורי המותג. אנחנו אוהבים צמידי חברות, סליים מפנק וטרנדים שווים בטירוף. בואי לגלות מה הופך כל פריט לקסום במיוחד!
 
 ### גלריה
-https://liya-s-shop-55737d61.zappy5.app/gallery
+https://example.com/gallery
 צללי לתוך גלריה מפנקת של צמידים, תכשיטי אוויב רפאל וסליים בשלל צבעים. קבלי רעיונות ללוק המושלם והכי שווה לבית ספר או למסיבת פיג׳מות!
 
 ### צור קשר
-https://liya-s-shop-55737d61.zappy5.app/contact
+https://example.com/contact
 יש לך רעיון לצמיד מיוחד או שאלה על סליים? אנחנו פה בוואטסאפ ובאינסטגרם. כתבי לנו ונתאים לך את האקססורי הכי שווה בעולם. מחכות לך!
 
 ### Products
-https://liya-s-shop-55737d61.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Liya’s shop
 
 ### Product Detail
-https://liya-s-shop-55737d61.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Liya’s shop
 
 ### Category
-https://liya-s-shop-55737d61.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Liya’s shop
 
 ### תודה רבה - פנייתך התקבלה | Liya's shop
-https://liya-s-shop-55737d61.zappy5.app/thank-you
+https://example.com/thank-you
 תודה רבה על פנייתך! הודעתך התקבלה במערכת שלנו. Liya's shop - אביזרים, יצירה ותכשיטים, כולל קולקציות aviv rafael jewelry, sharon geyor jewelry וכן צמידים לילדות בגיל 12.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://liya-s-shop-55737d61.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://liya-s-shop-55737d61.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://liya-s-shop-55737d61.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -78,8 +78,8 @@ E-commerce / Kids Accessories & Crafts
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://liya-s-shop-55737d61.zappy5.app/sitemap.xml
-- Robots: https://liya-s-shop-55737d61.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://liya-s-shop-55737d61.zappy5.app/llms-full.txt
-- Products (JSON): https://liya-s-shop-55737d61.zappy5.app/products.json
-- Products (Google Merchant RSS): https://liya-s-shop-55737d61.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml

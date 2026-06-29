@@ -2,13 +2,13 @@
 
 A fun and colorful online shop targeting girls around age 12, selling handmade or curated accessories including bracelets, jewelry, slimes, and other girly items. The brand has a playful, youthful, and creative vibe — think sparkles, pastel colors, and trendy tween aesthetics. The shop likely appeals to girls who love DIY culture, friendship bracelets, and fun sensory products like slime.
 
-Source: https://liya-s-shop-55737d61.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גלי את הקסם — צמידים ותכשיטים לבנות 12 — Liya&#39;s shop
 
-URL: https://liya-s-shop-55737d61.zappy5.app
+URL: https://example.com
 Description: חנות אונליין צבעונית ומתוקה לצמידים, תכשיטי אופנה, סליים ואקססוריז ייחודיים לילדות שאוהבות ליצור ולנצנץ. כנסי עכשיו לעולם של סטייל DIY כיפי!
 
 גלי את הקסם — צמידים ותכשיטים לבנות 12 — Liya's shop
@@ -579,7 +579,7 @@ Description: חנות אונליין צבעונית ומתוקה לצמידים,
 
 ## הסיפור הנוצץ מאחורי הקולקציה — Liya&#39;s shop
 
-URL: https://liya-s-shop-55737d61.zappy5.app/about
+URL: https://example.com/about
 Description: הכירי את לי׳ה והוויב היצירתי שמאחורי המותג. אנחנו אוהבים צמידי חברות, סליים מפנק וטרנדים שווים בטירוף. בואי לגלות מה הופך כל פריט לקסום במיוחד!
 
 הסיפור הנוצץ מאחורי הקולקציה — Liya's shop
@@ -954,7 +954,7 @@ Description: הכירי את לי׳ה והוויב היצירתי שמאחורי
 
 ## השראה ורודה — גלריית לוקים מטריפים — Liya&#39;s shop
 
-URL: https://liya-s-shop-55737d61.zappy5.app/gallery
+URL: https://example.com/gallery
 Description: צללי לתוך גלריה מפנקת של צמידים, תכשיטי אוויב רפאל וסליים בשלל צבעים. קבלי רעיונות ללוק המושלם והכי שווה לבית ספר או למסיבת פיג׳מות!
 
 השראה ורודה — גלריית לוקים מטריפים — Liya's shop
@@ -1348,7 +1348,7 @@ Description: צללי לתוך גלריה מפנקת של צמידים, תכשי
 
 ## שולחות הודעה ונוצצת — צרי קשר — Liya&#39;s shop
 
-URL: https://liya-s-shop-55737d61.zappy5.app/contact
+URL: https://example.com/contact
 Description: יש לך רעיון לצמיד מיוחד או שאלה על סליים? אנחנו פה בוואטסאפ ובאינסטגרם. כתבי לנו ונתאים לך את האקססורי הכי שווה בעולם. מחכות לך!
 
 שולחות הודעה ונוצצת — צרי קשר — Liya's shop
@@ -1785,7 +1785,7 @@ Description: יש לך רעיון לצמיד מיוחד או שאלה על סל�
 
 ## מוצרים
 
-URL: https://liya-s-shop-55737d61.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - Liya’s shop
 
 מוצרים - Liya’s shop
@@ -2023,7 +2023,7 @@ Description: המוצרים שלנו - Liya’s shop
 
 ## פרטי המוצר
 
-URL: https://liya-s-shop-55737d61.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - Liya’s shop
 
 פרטי המוצר - Liya’s shop
@@ -2239,7 +2239,7 @@ Description: פרטי המוצר - Liya’s shop
 
 ## מוצרים
 
-URL: https://liya-s-shop-55737d61.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - Liya’s shop
 
 מוצרים - Liya’s shop
@@ -2479,7 +2479,7 @@ Description: מוצרים - Liya’s shop
 
 ## מדיניות פרטיות
 
-URL: https://liya-s-shop-55737d61.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -2762,7 +2762,7 @@ Liya’s shop ("החברה", "אנו", "שלנו") מחויבת להגן על פ
 
 ## הצהרת נגישות
 
-URL: https://liya-s-shop-55737d61.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -3054,7 +3054,7 @@ Liya’s shop מחויבת להנגיש את השירותים לכלל הציב�
 
 ## תנאי שימוש
 
-URL: https://liya-s-shop-55737d61.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -3365,7 +3365,7 @@ Liya’s shop מספקת E-commerce / Kids Accessories & Crafts דרך האתר.
 
 ## תודה רבה - פנייתך התקבלה | Liya's shop
 
-URL: https://liya-s-shop-55737d61.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: תודה רבה על פנייתך! הודעתך התקבלה במערכת שלנו. Liya's shop - אביזרים, יצירה ותכשיטים, כולל קולקציות aviv rafael jewelry, sharon geyor jewelry וכן צמידים לילדות בגיל 12.
 
 תודה רבה - פנייתך התקבלה | Liya's shop
