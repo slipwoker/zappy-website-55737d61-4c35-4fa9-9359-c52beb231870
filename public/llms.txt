@@ -1,0 +1,85 @@
+# Liya’s shop — Generative Engine Optimization Map
+
+> A fun and colorful online shop targeting girls around age 12, selling handmade or curated accessories including bracelets, jewelry, slimes, and other girly items. The brand has a playful, youthful, and creative vibe — think sparkles, pastel colors, and trendy tween aesthetics. The shop likely appeals to girls who love DIY culture, friendship bracelets, and fun sensory products like slime.
+
+---
+
+## Pages
+
+### בית
+https://liya-s-shop-55737d61.zappy5.app
+חנות אונליין צבעונית ומתוקה לצמידים, תכשיטי אופנה, סליים ואקססוריז ייחודיים לילדות שאוהבות ליצור ולנצנץ. כנסי עכשיו לעולם של סטייל DIY כיפי!
+
+### אודות
+https://liya-s-shop-55737d61.zappy5.app/about
+הכירי את לי׳ה והוויב היצירתי שמאחורי המותג. אנחנו אוהבים צמידי חברות, סליים מפנק וטרנדים שווים בטירוף. בואי לגלות מה הופך כל פריט לקסום במיוחד!
+
+### גלריה
+https://liya-s-shop-55737d61.zappy5.app/gallery
+צללי לתוך גלריה מפנקת של צמידים, תכשיטי אוויב רפאל וסליים בשלל צבעים. קבלי רעיונות ללוק המושלם והכי שווה לבית ספר או למסיבת פיג׳מות!
+
+### צור קשר
+https://liya-s-shop-55737d61.zappy5.app/contact
+יש לך רעיון לצמיד מיוחד או שאלה על סליים? אנחנו פה בוואטסאפ ובאינסטגרם. כתבי לנו ונתאים לך את האקססורי הכי שווה בעולם. מחכות לך!
+
+### Products
+https://liya-s-shop-55737d61.zappy5.app/products
+המוצרים שלנו - Liya’s shop
+
+### Product Detail
+https://liya-s-shop-55737d61.zappy5.app/product/:slug
+פרטי המוצר - Liya’s shop
+
+### Category
+https://liya-s-shop-55737d61.zappy5.app/category/:slug
+מוצרים - Liya’s shop
+
+### תודה רבה - פנייתך התקבלה | Liya's shop
+https://liya-s-shop-55737d61.zappy5.app/thank-you
+תודה רבה על פנייתך! הודעתך התקבלה במערכת שלנו. Liya's shop - אביזרים, יצירה ותכשיטים, כולל קולקציות aviv rafael jewelry, sharon geyor jewelry וכן צמידים לילדות בגיל 12.
+
+## Legal & Policy
+
+### Privacy Policy
+https://liya-s-shop-55737d61.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://liya-s-shop-55737d61.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://liya-s-shop-55737d61.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Liya’s shop
+A fun and colorful online shop targeting girls around age 12, selling handmade or curated accessories including bracelets, jewelry, slimes, and other girly items. The brand has a playful, youthful, and creative vibe — think sparkles, pastel colors, and trendy tween aesthetics. The shop likely appeals to girls who love DIY culture, friendship bracelets, and fun sensory products like slime.
+
+## Target Audience
+- ילדות בגיל 12 בערך
+- ילדות בגיל 12
+- חובבות יצירה
+- הורים קונים מתנות
+
+## Industry
+E-commerce / Kids Accessories & Crafts
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://liya-s-shop-55737d61.zappy5.app/sitemap.xml
+- Robots: https://liya-s-shop-55737d61.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://liya-s-shop-55737d61.zappy5.app/llms-full.txt
+- Products (JSON): https://liya-s-shop-55737d61.zappy5.app/products.json
+- Products (Google Merchant RSS): https://liya-s-shop-55737d61.zappy5.app/product-feed.xml
