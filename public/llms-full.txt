@@ -519,9 +519,9 @@ Description: חנות אונליין צבעונית ומתוקה לצמידים,
 #### צור קשר
 
 
-- [business_email]
+- Liyaskyipad@gmail.com
 
-- [business_phone]
+- 0533304992
 
 - [business_address]
 
@@ -533,13 +533,11 @@ Description: חנות אונליין צבעונית ומתוקה לצמידים,
 
 #### שעות פעילות
 
+- יום א’ סגור
 
-- ימים א'–ה' 09:00–18:00
-
-- יום ו' 09:00–13:00
+- ימים ב’–ו’ 09:00–17:00
 
 - שבת סגור
-
 
 
 
@@ -894,9 +892,9 @@ Description: הכירי את לי׳ה והוויב היצירתי שמאחורי
 #### צור קשר
 
 
-- [business_email]
+- Liyaskyipad@gmail.com
 
-- [business_phone]
+- 0533304992
 
 - [business_address]
 
@@ -908,13 +906,11 @@ Description: הכירי את לי׳ה והוויב היצירתי שמאחורי
 
 #### שעות פעילות
 
+- יום א’ סגור
 
-- ימים א'–ה' 09:00–18:00
-
-- יום ו' 09:00–13:00
+- ימים ב’–ו’ 09:00–17:00
 
 - שבת סגור
-
 
 
 
@@ -1288,9 +1284,9 @@ Description: צללי לתוך גלריה מפנקת של צמידים, תכשי
 #### צור קשר
 
 
-- [business_email]
+- Liyaskyipad@gmail.com
 
-- [business_phone]
+- 0533304992
 
 - [business_address]
 
@@ -1302,13 +1298,11 @@ Description: צללי לתוך גלריה מפנקת של צמידים, תכשי
 
 #### שעות פעילות
 
+- יום א’ סגור
 
-- ימים א'–ה' 09:00–18:00
-
-- יום ו' 09:00–13:00
+- ימים ב’–ו’ 09:00–17:00
 
 - שבת סגור
-
 
 
 
@@ -1474,7 +1468,7 @@ Description: יש לך רעיון לצמיד מיוחד או שאלה על סל�
 
 
 
-וואטסאפ
+וואט
 
 
 
@@ -1495,7 +1489,7 @@ Description: יש לך רעיון לצמיד מיוחד או שאלה על סל�
 
 
 אימייל
-[business_email]
+Liyaskyipad@gmail.com
 
 
 
@@ -1728,9 +1722,9 @@ Description: יש לך רעיון לצמיד מיוחד או שאלה על סל�
 #### צור קשר
 
 
-- [business_email]
+- Liyaskyipad@gmail.com
 
-- [business_phone]
+- 0533304992
 
 - [business_address]
 
@@ -1742,13 +1736,11 @@ Description: יש לך רעיון לצמיד מיוחד או שאלה על סל�
 
 #### שעות פעילות
 
+- יום א’ סגור
 
-- ימים א'–ה' 09:00–18:00
-
-- יום ו' 09:00–13:00
+- ימים ב’–ו’ 09:00–17:00
 
 - שבת סגור
-
 
 
 
@@ -1973,9 +1965,9 @@ Description: המוצרים שלנו - Liya’s shop
 #### צור קשר
 
 
-- [business_email]
+- Liyaskyipad@gmail.com
 
-- [business_phone]
+- 0533304992
 
 - [business_address]
 
@@ -1987,13 +1979,11 @@ Description: המוצרים שלנו - Liya’s shop
 
 #### שעות פעילות
 
+- יום א’ סגור
 
-- ימים א'–ה' 09:00–18:00
-
-- יום ו' 09:00–13:00
+- ימים ב’–ו’ 09:00–17:00
 
 - שבת סגור
-
 
 
 
@@ -2189,9 +2179,9 @@ Description: פרטי המוצר - Liya’s shop
 #### צור קשר
 
 
-- [business_email]
+- Liyaskyipad@gmail.com
 
-- [business_phone]
+- 0533304992
 
 - [business_address]
 
@@ -2203,13 +2193,11 @@ Description: פרטי המוצר - Liya’s shop
 
 #### שעות פעילות
 
+- יום א’ סגור
 
-- ימים א'–ה' 09:00–18:00
-
-- יום ו' 09:00–13:00
+- ימים ב’–ו’ 09:00–17:00
 
 - שבת סגור
-
 
 
 
@@ -2429,9 +2417,9 @@ Description: מוצרים - Liya’s shop
 #### צור קשר
 
 
-- [business_email]
+- Liyaskyipad@gmail.com
 
-- [business_phone]
+- 0533304992
 
 - [business_address]
 
@@ -2443,13 +2431,11 @@ Description: מוצרים - Liya’s shop
 
 #### שעות פעילות
 
+- יום א’ סגור
 
-- ימים א'–ה' 09:00–18:00
-
-- יום ו' 09:00–13:00
+- ימים ב’–ו’ 09:00–17:00
 
 - שבת סגור
-
 
 
 
@@ -2661,9 +2647,9 @@ Liya’s shop ("החברה", "אנו", "שלנו") מחויבת להגן על פ
 
 - חברה: Liya’s shop
 
-- אימייל: [business_email]
+- אימייל: Liyaskyipad@gmail.com
 
-- טלפון: [business_phone]
+- טלפון: 0533304992
 
 - כתובת: [business_address]
 
@@ -2712,9 +2698,9 @@ Liya’s shop ("החברה", "אנו", "שלנו") מחויבת להגן על פ
 #### צור קשר
 
 
-- [business_email]
+- Liyaskyipad@gmail.com
 
-- [business_phone]
+- 0533304992
 
 - [business_address]
 
@@ -2726,13 +2712,11 @@ Liya’s shop ("החברה", "אנו", "שלנו") מחויבת להגן על פ
 
 #### שעות פעילות
 
+- יום א’ סגור
 
-- ימים א'–ה' 09:00–18:00
-
-- יום ו' 09:00–13:00
+- ימים ב’–ו’ 09:00–17:00
 
 - שבת סגור
-
 
 
 
@@ -2952,9 +2936,9 @@ Liya’s shop מחויבת להנגיש את השירותים לכלל הציב�
 
 - חברה: Liya’s shop
 
-- אימייל: [business_email]
+- אימייל: Liyaskyipad@gmail.com
 
-- טלפון: [business_phone]
+- טלפון: 0533304992
 
 
 
@@ -3004,9 +2988,9 @@ Liya’s shop מחויבת להנגיש את השירותים לכלל הציב�
 #### צור קשר
 
 
-- [business_email]
+- Liyaskyipad@gmail.com
 
-- [business_phone]
+- 0533304992
 
 - [business_address]
 
@@ -3018,13 +3002,11 @@ Liya’s shop מחויבת להנגיש את השירותים לכלל הציב�
 
 #### שעות פעילות
 
+- יום א’ סגור
 
-- ימים א'–ה' 09:00–18:00
-
-- יום ו' 09:00–13:00
+- ימים ב’–ו’ 09:00–17:00
 
 - שבת סגור
-
 
 
 
@@ -3267,9 +3249,9 @@ Liya’s shop מספקת E-commerce / Kids Accessories & Crafts דרך האתר.
 
 - חברה: Liya’s shop
 
-- אימייל: [business_email]
+- אימייל: Liyaskyipad@gmail.com
 
-- טלפון: [business_phone]
+- טלפון: 0533304992
 
 - כתובת: [business_address]
 
@@ -3315,9 +3297,9 @@ Liya’s shop מספקת E-commerce / Kids Accessories & Crafts דרך האתר.
 #### צור קשר
 
 
-- [business_email]
+- Liyaskyipad@gmail.com
 
-- [business_phone]
+- 0533304992
 
 - [business_address]
 
@@ -3329,13 +3311,11 @@ Liya’s shop מספקת E-commerce / Kids Accessories & Crafts דרך האתר.
 
 #### שעות פעילות
 
+- יום א’ סגור
 
-- ימים א'–ה' 09:00–18:00
-
-- יום ו' 09:00–13:00
+- ימים ב’–ו’ 09:00–17:00
 
 - שבת סגור
-
 
 
 
@@ -3568,9 +3548,9 @@ Description: תודה רבה על פנייתך! הודעתך התקבלה במע
 #### צור קשר
 
 
-- [business_email]
+- Liyaskyipad@gmail.com
 
-- [business_phone]
+- 0533304992
 
 - [business_address]
 
@@ -3582,13 +3562,11 @@ Description: תודה רבה על פנייתך! הודעתך התקבלה במע
 
 #### שעות פעילות
 
+- יום א’ סגור
 
-- ימים א'–ה' 09:00–18:00
-
-- יום ו' 09:00–13:00
+- ימים ב’–ו’ 09:00–17:00
 
 - שבת סגור
-
 
 
 
